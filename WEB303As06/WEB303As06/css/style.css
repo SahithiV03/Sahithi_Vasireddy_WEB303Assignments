@@ -1,0 +1,104 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5f5;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0.2rem 0;
+}
+
+.container {
+  margin: auto;
+  width: 100%;
+  max-width: 900px;
+  border: 1px darkgray;
+  padding: 2rem;
+}
+
+.img {
+  border-radius: 5px;
+}
+
+.accordian {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+}
+
+.accordian p {
+  margin-top: 5px;
+  display: none;
+}
+
+.accordian a,
+.tab a {
+  line-height: 20px;
+  font-weight: 500;
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+
+.accordian a:hover,
+.tabs a:hover {
+  color: rgb(4, 78, 78);
+}
+
+.accordian a.active {
+  color: rgb(4, 78, 78);
+}
+
+.tabs {
+  border: 1px solid darkgray;
+  border-radius: 5px;
+}
+.tabs nav {
+  background-color: darkgray;
+}
+
+.tabs nav ul li {
+  display: inline;
+  padding: 1rem;
+}
+
+.tabs nav ul li {
+  display: inline-block;
+}
+
+.tab-link {
+  display: inline-block;
+  font-weight: 500;
+  text-decoration: none;
+  color: black;
+  padding: 0 1rem;
+}
+
+.tab-link.active {
+  color: rgb(4, 78, 78);
+}
+
+.tab {
+  padding: 1rem;
+  display: none;
+}
+.tab-data > .tab:first-child {
+  display: block;
+}
+.tab-data > .tab:first-child > .tab-link {
+  color: rgb(4, 78, 78);
+}
