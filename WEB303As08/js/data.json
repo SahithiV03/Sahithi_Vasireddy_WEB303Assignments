@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ross",
+    "lastName": "Geller",
+    "team": "A",
+    "score": "84"
+  },
+  {
+    "id": 2,
+    "firstName": "Monica",
+    "lastName": "Geller",
+    "team": "B",
+    "score": "81"
+  },
+  {
+    "id": 3,
+    "firstName": "Rachel",
+    "lastName": "Green",
+    "team": "A",
+    "score": "68"
+  },
+  {
+    "id": 4,
+    "firstName": "Phoebe",
+    "lastName": "Buffay",
+    "team": "B",
+    "score": "70"
+  },
+  {
+    "id": 5,
+    "firstName": "Chandler",
+    "lastName": "Bing",
+    "team": "B",
+    "score": "79"
+  },
+  {
+    "id": 6,
+    "firstName": "Joey",
+    "lastName": "Tribiani",
+    "team": "A",
+    "score": "65"
+  },
+  {
+    "id": 7,
+    "firstName": "Janice",
+    "lastName": " Hosenstein",
+    "team": "A",
+    "score": "65"
+  },
+  {
+    "id": 8,
+    "firstName": "Jack",
+    "lastName": "Geller",
+    "team": "B",
+    "score": "72"
+  },
+  {
+    "id": 9,
+    "firstName": "Richard",
+    "lastName": "Burke",
+    "team": "B",
+    "score": "79"
+  },
+  {
+    "id": 10,
+    "firstName": "Emily",
+    "lastName": "Waltham",
+    "team": "A",
+    "score": "59"
+  }
+]
