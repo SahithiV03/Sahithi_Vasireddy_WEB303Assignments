@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ross Geller",
+    "team": "A",
+    "score": "84",
+    "dob": "1988-12-28"
+  },
+  {
+    "id": 2,
+    "name": "Monica Geller",
+    "team": "B",
+    "score": "81",
+    "dob": "1991-06-14"
+  },
+  {
+    "id": 3,
+    "name": "Rachel Green",
+    "team": "A",
+    "score": "68",
+    "dob": "1988-08-28"
+  },
+  {
+    "id": 4,
+    "name": "Phoebe Buffay",
+    "team": "B",
+    "score": "70",
+    "dob": "1985-04-04"
+  },
+  {
+    "id": 5,
+    "name": "Chandler Bing",
+    "team": "B",
+    "score": "79",
+    "dob": "1984-11-29"
+  },
+  {
+    "id": 6,
+    "name": "Joey Tribiani",
+    "team": "A",
+    "score": "65",
+    "dob": "1987-10-18"
+  },
+  {
+    "id": 7,
+    "name": "Janice Hosenstein",
+    "team": "A",
+    "score": "65",
+    "dob": "1992-02-14"
+  },
+  {
+    "id": 8,
+    "name": "Jack Geller",
+    "team": "B",
+    "score": "72",
+    "dob": "1981-05-05"
+  },
+  {
+    "id": 9,
+    "name": "Richard Burke",
+    "team": "B",
+    "score": "79",
+    "dob": "1985-08-10"
+  },
+  {
+    "id": 10,
+    "name": "Emily Waltham",
+    "team": "A",
+    "score": "59",
+    "dob": "1985-10-17"
+  }
+]
